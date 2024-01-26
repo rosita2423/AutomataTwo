@@ -1,0 +1,14 @@
+C:\Users\victo\source\repos\AutomataTwo\AutomataTwo\bin\Debug\net8.0\AutomataTwo.exe
+C:\Users\victo\source\repos\AutomataTwo\AutomataTwo\bin\Debug\net8.0\AutomataTwo.deps.json
+C:\Users\victo\source\repos\AutomataTwo\AutomataTwo\bin\Debug\net8.0\AutomataTwo.runtimeconfig.json
+C:\Users\victo\source\repos\AutomataTwo\AutomataTwo\bin\Debug\net8.0\AutomataTwo.dll
+C:\Users\victo\source\repos\AutomataTwo\AutomataTwo\bin\Debug\net8.0\AutomataTwo.pdb
+C:\Users\victo\source\repos\AutomataTwo\AutomataTwo\obj\Debug\net8.0\AutomataTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\source\repos\AutomataTwo\AutomataTwo\obj\Debug\net8.0\AutomataTwo.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\AutomataTwo\AutomataTwo\obj\Debug\net8.0\AutomataTwo.AssemblyInfo.cs
+C:\Users\victo\source\repos\AutomataTwo\AutomataTwo\obj\Debug\net8.0\AutomataTwo.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\AutomataTwo\AutomataTwo\obj\Debug\net8.0\AutomataTwo.dll
+C:\Users\victo\source\repos\AutomataTwo\AutomataTwo\obj\Debug\net8.0\refint\AutomataTwo.dll
+C:\Users\victo\source\repos\AutomataTwo\AutomataTwo\obj\Debug\net8.0\AutomataTwo.pdb
+C:\Users\victo\source\repos\AutomataTwo\AutomataTwo\obj\Debug\net8.0\AutomataTwo.genruntimeconfig.cache
+C:\Users\victo\source\repos\AutomataTwo\AutomataTwo\obj\Debug\net8.0\ref\AutomataTwo.dll
